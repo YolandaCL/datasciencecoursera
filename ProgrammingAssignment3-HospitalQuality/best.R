@@ -2,6 +2,7 @@
 ## Contains information about 30-day mortality and readmission rates 
 ## for heart attacks, heart failure, and pneumonia for over 4,000 hospitals.
 
+## 2 - Finding the best hospital in a state :
 ## Write a function called best that take two arguments: 
 ## the 2-character abbreviated name of a state and an outcome name. 
 ## The function reads the outcome-of-care-measures.csv file 
