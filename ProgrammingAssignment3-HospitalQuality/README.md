@@ -4,10 +4,10 @@
 ## for over 4,000 hospitals.
 ##
 ##  1 - Plot the 30-day mortality rates for heart attack 
-##        > outcome <- read.csv("outcome-of-care-measures.csv", colClasses = "character") 
-##        To make a simple histogram of the 30-day death rates from heart attack (column 11)
-##        > outcome[, 11] <- as.numeric(outcome[, 11])
-##        > hist(outcome[, 11])
+##    outcome <- read.csv("outcome-of-care-measures.csv", colClasses = "character") 
+##    *30-day death rates from heart attack (column 11)
+##    outcome[, 11] <- as.numeric(outcome[, 11])
+##    hist(outcome[, 11])
 ##
 ##  2 - Finding the best hospital in a state 
 ##
