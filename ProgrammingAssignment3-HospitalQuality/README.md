@@ -9,11 +9,11 @@
 ##    outcome[, 11] <- as.numeric(outcome[, 11])
 ##    hist(outcome[, 11])
 ##
-##  2 - Finding the best hospital in a state 
+##  2 - Finding the best hospital in a state : "best.R" 
 ##
-##  3 - Ranking hospitals by outcome in a state 
+##  3 - Ranking hospitals by outcome in a state : "rankhospital.R"
 ##
-##  4 - Ranking hospitals in all states 
+##  4 - Ranking hospitals in all states : "rankall.R"
  
 
 
