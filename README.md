@@ -1,5 +1,5 @@
 # datasciencecoursera
-Data Science Specialization :  
+Data Science Specialization:  
 course1: The Data Scientist’s Toolbox /
 course2: R Programming /
 course3: Getting and Cleaning Data /
