@@ -294,6 +294,10 @@
         {
           "name": "JSON",
           "type": "technology"
+        },
+        {
+          "name": "Jupyter",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
