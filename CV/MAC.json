@@ -328,6 +328,10 @@
           "type": "technology"
         },
         {
+          "name": "SQLite",
+          "type": "technology"
+        },
+        {
           "name": "jQuery",
           "type": "technology"
         }
