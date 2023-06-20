@@ -320,6 +320,10 @@
           "type": "technology"
         },
         {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "jQuery",
           "type": "technology"
         }
