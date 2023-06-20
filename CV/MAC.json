@@ -286,6 +286,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "IBM Watson",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Data Analysis & BI",
         "Data Scientist",
