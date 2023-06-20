@@ -1,0 +1,293 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Yolanda",
+      "surnames": "Cuervo López",
+      "title": "Data Analyst Ecommerce . Data Scientist learner ( Python SQL R ) .  Connecting ideas with words ",
+      "description": "I am an **I.T. Technician** ( F.P. Desarrollo Aplicaciones Web ) with experience in database management and problem-solving. My Bachelor's **Degree in Biology** ( Biotechnology ) has provided me with a solid foundation in scientific methodologies and critical thinking.\n\nCurrently, I am pursuing the **Professional Certification Program in Data Science** from IBM, further enhancing my expertise in data analysis. This program has equipped me with a deep understanding of Python for Data Science, AI & Development, Tools for Data Science, Databases and SQL for Data Science with Python, and Data Analysis with Python. I am also in the process of completing courses in Data Visualization with Python, Applied Data Science Capstone, and Machine Learning with Python.\n\nIn my role as a Technical Manager at El Corte Inglés, in **Online Sales Division** , I have effectively managed technical issues and budgets. I have a proven track record of identifying and resolving database issues and Inconsistencies Between Systems. Leveraging tools such as SAP CRM, Salesforce, and IBM IMS, I have successfully contributed to the smooth operation of the online sales division. My experience in problem management and utilization of these tools has honed my ability to extract valuable insights from data.\n\nIn addition to my technical skills, I am also proficient in languages. I hold a **C1 level in English** of EOI and an *A2 level in German* of EOI. These language proficiencies enable me to effectively communicate and collaborate with stakeholders from diverse backgrounds.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/08c9442f-e592-46eb-a75f-52ab39f5618a_yolanda.png",
+        "alt": "yolanda.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJZxysYJqMNg0RJGJezA5ENDE)",
+        "country": "España",
+        "region": "Principado de Asturias",
+        "municipality": "Oviedo"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "EL CORTE INGLÉS ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/3cb775f4-a88f-4ee0-ad71-5898b785b676_corteinglesonline.jpg",
+            "alt": "corteInglesOnline.jpg"
+          },
+          "URL": "https://www.elcorteingles.es/"
+        },
+        "roles": [
+          {
+            "name": "Technical Manager  at Online Sales Division ( 100% remote )",
+            "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "> - Problem management and budgeting.    \n> - Identification of database issues and inconsistencies between systems.    \n> - Utilization of tools such as SAP CRM, Salesforce, and IBM IMS."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Salesforce",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "EL CORTE INGLÉS , office in calle Tomás Bretón ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/8dcea0bc-e027-4a9e-8d1d-e9eb54a490cb_corteinglesonline.jpg",
+            "alt": "corteInglesOnline.jpg"
+          },
+          "URL": "https://www.elcorteingles.es/"
+        },
+        "roles": [
+          {
+            "name": "Technician in Functional Group  ( CIISW ARQ.D.TEC.DISTRIB. )",
+            "startDate": "2019-03-01",
+            "finishDate": "2020-05-01",
+            "challenges": [
+              {
+                "description": "> - Extraction and cleansing of the incidents set\n> - Summary of relevant information to provide data for the programming team.\n> - Identifying connections between current and previous incidents and reporting for further analysis.  "
+              }
+            ],
+            "competences": [
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CAPGEMINI ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/06a15031-6c86-44e1-a724-e3b64caa064c_capgemini_sap.jpg",
+            "alt": "capgemini_sap.jpg"
+          },
+          "URL": "https://www.capgemini.com"
+        },
+        "roles": [
+          {
+            "name": "Training F.P. Dual Desarrollo de Aplicaciones Web  ",
+            "startDate": "2017-05-01",
+            "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Intern SAP technician working closely with senior SAP professionals to support various modules. Learning and gaining hands-on experience in SAP systems and contributing to the effective utilization of these systems within the organization . And documenting processes ( clear, concise, correct, complete )"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Abap",
+                "type": "technology"
+              },
+              {
+                "name": "R",
+                "type": "technology"
+              },
+              {
+                "name": "SAP HANA",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "DE",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CRM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's Degree in Biology ( specialized in Biotechnology ) ",
+        "startDate": "1995-07-01",
+        "institution": {
+          "name": "University of Oviedo",
+          "description": "This program provides, among others, a comprehensive understanding of molecular biology, genetic engineering, microbiology, bioinformatics and biostatistics.",
+          "URL": "https://www.uniovi.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/0c4c3130-c607-4ce9-914e-e044cff91b98_universidadoviedo.jpg",
+            "alt": "universidadOviedo.jpg"
+          }
+        },
+        "finishDate": "2001-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          },
+          {
+            "name": "SPSS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "I.T. Technician ( F.P. Desarrollo Aplicaciones Web ) ",
+        "startDate": "2016-06-01",
+        "institution": {
+          "name": "I.E.S Doctor Fléming de Oviedo",
+          "description": "> - Web Development using HTML, CSS, JavaScript, Java and PHP.\n> - Database Management with MySQL and Oracle\n> - Web Application Security: Implementing security measures to protect web applications from potential threats and vulnerabilities, including data encryption and user authentication.",
+          "URL": "https://alojaweb.educastur.es/web/iesdoctorfleming",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/512a6c26-2808-433b-9995-7ad33c76209d_fp_ies_fleming.jpg",
+            "alt": "fp_ies_fleming.jpg"
+          }
+        },
+        "finishDate": "2018-06-01",
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/yolandacl/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "correoyolanda@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "645533714",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "goodPractices": "2020 - ( present ) experience at \"El Corte Inglés \": Ecommerce  >> Técnico : Administración División Venta a Distancia en VPR ( venta por reserva )\n\n2019 - 2020 experience at \"El Corte Inglés \": Ecommerce  >>  Técnico : Centro Integrado Ingeniería Software- Arquitectura de Tec. Distribuida\n\n2017 y 2018  intership at Cadgemini, con SAP : FP Desarrollo de Aplicaciones Web "
+  }
+}
