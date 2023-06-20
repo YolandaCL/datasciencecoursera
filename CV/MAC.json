@@ -324,6 +324,10 @@
           "type": "technology"
         },
         {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
           "name": "jQuery",
           "type": "technology"
         }
