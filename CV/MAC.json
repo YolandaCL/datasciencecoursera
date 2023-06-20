@@ -300,6 +300,10 @@
           "type": "technology"
         },
         {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
           "name": "Jupyter",
           "type": "technology"
         },
