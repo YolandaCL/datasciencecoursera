@@ -298,6 +298,10 @@
         {
           "name": "Jupyter",
           "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
