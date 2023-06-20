@@ -286,68 +286,6 @@
       ]
     },
     "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "CRM",
-          "type": "technology"
-        },
-        {
-          "name": "IBM Watson",
-          "type": "technology"
-        },
-        {
-          "name": "JSON",
-          "type": "technology"
-        },
-        {
-          "name": "Jira",
-          "type": "technology"
-        },
-        {
-          "name": "Jupyter",
-          "type": "technology"
-        },
-        {
-          "name": "MongoDB",
-          "type": "technology"
-        },
-        {
-          "name": "MySQL",
-          "type": "technology"
-        },
-        {
-          "name": "NoSQL",
-          "type": "technology"
-        },
-        {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "R",
-          "type": "technology"
-        },
-        {
-          "name": "SAP HANA",
-          "type": "technology"
-        },
-        {
-          "name": "SQL",
-          "type": "technology"
-        },
-        {
-          "name": "SQLite",
-          "type": "technology"
-        },
-        {
-          "name": "Visual Studio",
-          "type": "technology"
-        },
-        {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Data Analysis & BI",
         "Data Scientist",
