@@ -324,6 +324,10 @@
           "type": "technology"
         },
         {
+          "name": "R",
+          "type": "technology"
+        },
+        {
           "name": "jQuery",
           "type": "technology"
         }
