@@ -312,6 +312,10 @@
           "type": "technology"
         },
         {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
