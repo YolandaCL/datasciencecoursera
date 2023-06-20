@@ -340,6 +340,10 @@
           "type": "technology"
         },
         {
+          "name": "Visual Studio",
+          "type": "technology"
+        },
+        {
           "name": "jQuery",
           "type": "technology"
         }
