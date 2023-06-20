@@ -328,6 +328,10 @@
           "type": "technology"
         },
         {
+          "name": "SAP HANA",
+          "type": "technology"
+        },
+        {
           "name": "jQuery",
           "type": "technology"
         }
