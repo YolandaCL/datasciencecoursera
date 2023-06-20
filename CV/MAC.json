@@ -287,7 +287,6 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Backend Developer",
         "Data Analysis & BI",
         "Data Scientist"
       ]
