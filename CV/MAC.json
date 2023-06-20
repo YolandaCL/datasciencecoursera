@@ -290,6 +290,10 @@
         {
           "name": "IBM Watson",
           "type": "technology"
+        },
+        {
+          "name": "JSON",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
