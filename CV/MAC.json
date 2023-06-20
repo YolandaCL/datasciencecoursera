@@ -286,16 +286,6 @@
       ]
     },
     "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "CRM",
-          "type": "technology"
-        },
-        {
-          "name": "IBM Watson",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Data Analysis & BI",
         "Data Scientist",
