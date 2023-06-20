@@ -288,7 +288,8 @@
     "preferences": {
       "preferredRoles": [
         "Data Analysis & BI",
-        "Data Scientist"
+        "Data Scientist",
+        "QA & Testing Engineer"
       ]
     },
     "status": "searchingActively"
