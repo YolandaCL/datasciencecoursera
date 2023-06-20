@@ -300,6 +300,10 @@
           "type": "technology"
         },
         {
+          "name": "Jupyter",
+          "type": "technology"
+        },
+        {
           "name": "jQuery",
           "type": "technology"
         }
