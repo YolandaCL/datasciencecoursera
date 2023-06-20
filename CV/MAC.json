@@ -298,6 +298,10 @@
         {
           "name": "JSON",
           "type": "technology"
+        },
+        {
+          "name": "jQuery",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
