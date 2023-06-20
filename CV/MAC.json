@@ -287,7 +287,8 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Backend Developer"
+        "Backend Developer",
+        "Data Analysis & BI"
       ]
     },
     "status": "searchingActively"
