@@ -314,6 +314,10 @@
         {
           "name": "Python",
           "type": "technology"
+        },
+        {
+          "name": "jQuery",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
