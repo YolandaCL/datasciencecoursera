@@ -294,10 +294,6 @@
         {
           "name": "IBM Watson",
           "type": "technology"
-        },
-        {
-          "name": "Jupyter",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
