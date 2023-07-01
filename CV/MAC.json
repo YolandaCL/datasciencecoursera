@@ -273,6 +273,10 @@
         {
           "URL": "https://www.linkedin.com/in/yolandacl/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/YolandaCL",
+          "type": "github"
         }
       ],
       "contactMails": [
