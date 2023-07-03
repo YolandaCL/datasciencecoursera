@@ -66,9 +66,9 @@
         },
         "roles": [
           {
-            "name": "Technician in Functional Group  ( CIISW ARQ.D.TEC.DISTRIB. )",
+            "name": "Functional Group  Technician at CIISW ARQ.D.TEC.DISTRIB. ( 10% remote , 90% office)",
             "startDate": "2019-03-01",
-            "finishDate": "2020-05-01",
+            "finishDate": "2020-06-01",
             "challenges": [
               {
                 "description": "> - Extraction and cleansing of the incidents set\n> - Summary of relevant information to provide data for the programming team.\n> - Identifying connections between current and previous incidents and reporting for further analysis.  "
