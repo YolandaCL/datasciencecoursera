@@ -151,12 +151,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "CRM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Jira",
           "type": "technology"
         }
@@ -170,12 +164,6 @@
       {
         "skill": {
           "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Numpy",
           "type": "technology"
         }
       },
