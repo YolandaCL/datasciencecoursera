@@ -219,6 +219,23 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Gougle Cloud Computing Foundations Course",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Google",
+          "description": "( in progress )"
+        },
+        "finishDate": "2023-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "I.T. Technician ( F.P. Desarrollo Aplicaciones Web ) ",
         "startDate": "2016-06-01",
         "institution": {
