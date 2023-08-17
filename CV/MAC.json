@@ -273,14 +273,13 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Practical SAS Visual Analytics",
         "startDate": "2023-08-01",
         "institution": {
           "name": "Udemy",
           "description": "Basic background in statistics and charts"
-        },
-        "finishDate": "2023-08-01"
+        }
       },
       {
         "studyType": "certification",
