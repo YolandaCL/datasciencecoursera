@@ -244,6 +244,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Snowflake Decoded - Fundamentals and Hands-on Training",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Udemy"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Snowflake",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
