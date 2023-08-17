@@ -209,6 +209,15 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Data Mesh - Quick Intro for Complete Beginners",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Udemy"
+        }
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "I.T. Technician ( F.P. Desarrollo Aplicaciones Web ) ",
         "startDate": "2016-06-01",
