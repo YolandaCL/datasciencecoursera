@@ -151,6 +151,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jira",
           "type": "technology"
         }
