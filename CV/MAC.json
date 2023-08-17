@@ -181,12 +181,6 @@
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "SQL",
           "type": "technology"
         }
