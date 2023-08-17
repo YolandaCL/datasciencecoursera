@@ -178,6 +178,12 @@
           "name": "SQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Snowflake",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
