@@ -210,10 +210,12 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Data Mesh - Quick Intro for Complete Beginners",
+        "name": "Data Mesh - Quick Intro ",
         "startDate": "2023-07-01",
         "institution": {
-          "name": "Udemy"
+          "name": "Udemy",
+          "description": "> - Web Development using HTML, CSS, JavaScript, Java and PHP.\n> - Database Management with MySQL and Oracle\n> - Web Application Security: Implementing security measures to protect web applications from potential threats and vulnerabilities, including data encryption and user authentication.",
+          "URL": "https://alojaweb.educastur.es/web/iesdoctorfleming"
         }
       },
       {
