@@ -217,6 +217,43 @@
         }
       },
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "FP Desarrollo de Aplicaciones Web",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "IES Doctor Fléming de Oviedo",
+          "description": "> - Web Development using HTML, CSS, JavaScript, Java and PHP.\n> - Database Management and Analysis with MySQL and Oracle\n> - Web Application Security: Implementing security measures to protect web applications from potential threats and vulnerabilities, including data encryption and user authentication.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/29/b0c1815b-16de-4261-ac69-b0b6dca9caaf_512a6c26-2808-433b-9.jpg",
+            "alt": "512a6c26-2808-433b-9995-7ad33c76209d_fp_ies_fleming.jpg"
+          }
+        },
+        "finishDate": "2018-06-01",
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "SAP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Gougle Cloud Computing Foundations Course ( IN PROGRESS )",
