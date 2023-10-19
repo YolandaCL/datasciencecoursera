@@ -325,6 +325,12 @@
           "name": "Attention to detail",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
       }
     ]
   },
