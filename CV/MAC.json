@@ -184,7 +184,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Bachelor's Degree in Biology ( specialized in Biotechnology ) ",
+        "name": "Bachelor's Degree in Biology ( specialized Biotechnology ) ",
         "startDate": "1995-07-01",
         "institution": {
           "name": "University of Oviedo",
@@ -323,12 +323,6 @@
       {
         "skill": {
           "name": "Attention to detail",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Continuous learning",
           "type": "practice"
         }
       }
