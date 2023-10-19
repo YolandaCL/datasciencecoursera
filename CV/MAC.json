@@ -325,6 +325,12 @@
           "name": "Attention to detail",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
       }
     ]
   },
