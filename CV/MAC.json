@@ -220,20 +220,9 @@
         ]
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Data Mesh - Quick Intro ",
-        "startDate": "2023-07-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "> - Web Development using HTML, CSS, JavaScript, Java and PHP.\n> - Database Management with MySQL and Oracle\n> - Web Application Security: Implementing security measures to protect web applications from potential threats and vulnerabilities, including data encryption and user authentication.",
-          "URL": "https://alojaweb.educastur.es/web/iesdoctorfleming"
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "FP Desarrollo de Aplicaciones Web",
+        "name": "CFGS  SOFTWARE DEVELOPMENT ( FP  Desarrollo de Aplicaciones Web )",
         "startDate": "2016-09-01",
         "institution": {
           "name": "IES Doctor Fléming de Oviedo",
@@ -320,6 +309,23 @@
         "linkedCompetences": [
           {
             "name": "Snowflake",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "THE COMPLETE SQL MASTERCLASS 2023",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "> - Group by, Joins, Functions, Unions, Data manipulation & Data Definition, Views, Window functions, Grouping sets, Rollups, Transactions, Subqueries, Query optimization, Indexes\n",
+          "URL": "https://www.udemy.com/course/15-days-of-sql/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "SQL",
             "type": "technology"
           }
         ]
