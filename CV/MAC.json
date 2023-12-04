@@ -67,7 +67,7 @@
       },
       {
         "organization": {
-          "name": "EL CORTE INGLÉS , office in calle Tomás Bretón ",
+          "name": "EL CORTE INGLÉS ",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/8dcea0bc-e027-4a9e-8d1d-e9eb54a490cb_corteinglesonline.jpg",
             "alt": "corteInglesOnline.jpg"
@@ -76,12 +76,12 @@
         },
         "roles": [
           {
-            "name": "Functional Group  Technician at CIISW ARQ.D.TEC.DISTRIB. ( 10% remote , 90% office)",
+            "name": "Functional Group  Technician at CIISW ARQ.D.TEC.DISTRIB. ( 15% remote , 90% office)",
             "startDate": "2019-03-01",
             "finishDate": "2020-06-01",
             "challenges": [
               {
-                "description": "> - Extraction and cleansing of the incidents set\n> - Summary of relevant information to provide data for the programming team.\n> - Identifying connections between current and previous incidents and reporting for further analysis.  "
+                "description": "> - Extraction and cleansing of the incidents set\n> - Summary of relevant information to provide data for the programming team.\n> - Data analysis. Identifying connections between current and previous incidents and reporting for further analysis. \n> - Inconsistencies between centralized systems, using Jira & Remedy\n"
               }
             ],
             "competences": [
