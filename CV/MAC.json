@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -20,7 +20,17 @@
         "region": "Principado de Asturias",
         "municipality": "Oviedo"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/yolandacl/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/YolandaCL"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -141,10 +151,12 @@
     "languages": [
       {
         "name": "DE",
+        "fullName": "Alemán",
         "level": "Limited working proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Native or bilingual proficiency"
       }
     ],
