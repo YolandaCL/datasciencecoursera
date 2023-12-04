@@ -258,6 +258,23 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "DATA GOVERNNANCE",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "GEORGE FOX UNIVERSITY",
+          "description": ">- overview of the core concepts of data governance and data management. \n>- principles of data quality and integrity \n>- how big data, artificial intelligence, and machine learning are impacting data analytics. \n>- how data analytics and informatics professionals work to protect the data assets of an organization in the ever-changing world of technology. ",
+          "URL": "https://www.georgefox.edu/pathways/courses/data-governance.html"
+        },
+        "linkedCompetences": [
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "Gougle Cloud Computing Foundations Course ( in progress )",
         "startDate": "2023-07-01",
@@ -294,21 +311,6 @@
           },
           {
             "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Snowflake Decoded - Fundamentals and Hands-on Training",
-        "startDate": "2023-07-01",
-        "institution": {
-          "name": "Udemy"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Snowflake",
             "type": "technology"
           }
         ]
