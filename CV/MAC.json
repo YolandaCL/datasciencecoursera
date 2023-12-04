@@ -87,6 +87,10 @@
             ],
             "competences": [
               {
+                "name": "BMC Remedy",
+                "type": "technology"
+              },
+              {
                 "name": "JSON",
                 "type": "technology"
               },
