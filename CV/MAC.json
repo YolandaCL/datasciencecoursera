@@ -276,16 +276,17 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Gougle Cloud Computing Foundations Course ( in progress )",
-        "startDate": "2023-07-01",
+        "name": "DATA SCIENCE SPECIALIZATION, R PROGRAMMING",
+        "startDate": "2017-02-01",
         "institution": {
-          "name": "Google",
-          "description": "( in progress )"
+          "name": "THE JOHN HOPKINS UNIVERSITY",
+          "description": "2 courses :\n>- Data Science Specialization\n>- R Programming",
+          "URL": "https://www.coursera.org/specializations/jhu-data-science"
         },
-        "finishDate": "2023-12-01",
+        "finishDate": "2018-03-01",
         "linkedCompetences": [
           {
-            "name": "Google Cloud",
+            "name": "R",
             "type": "technology"
           }
         ]
