@@ -169,13 +169,13 @@
       },
       {
         "skill": {
-          "name": "Jupyter",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "R",
           "type": "technology"
         }
       },
@@ -442,11 +442,11 @@
         "type": "technology"
       },
       {
-        "name": "Jupyter",
+        "name": "Python",
         "type": "technology"
       },
       {
-        "name": "Python",
+        "name": "R",
         "type": "technology"
       },
       {
