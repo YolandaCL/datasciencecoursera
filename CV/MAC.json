@@ -407,10 +407,6 @@
           "type": "technology"
         },
         {
-          "name": "NoSQL",
-          "type": "technology"
-        },
-        {
           "name": "Python",
           "type": "technology"
         },
@@ -420,10 +416,6 @@
         },
         {
           "name": "SQL",
-          "type": "technology"
-        },
-        {
-          "name": "SQLite",
           "type": "technology"
         },
         {
