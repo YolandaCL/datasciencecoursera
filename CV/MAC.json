@@ -168,7 +168,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Azure",
+          "name": "Microsoft Power BI",
           "type": "technology"
         }
       },
@@ -441,10 +441,6 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "Azure",
-        "type": "technology"
-      },
       {
         "name": "Python",
         "type": "technology"
