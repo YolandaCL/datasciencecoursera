@@ -374,12 +374,6 @@
       ],
       "contactMails": [
         "correoyolanda@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "645533714",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -422,10 +416,6 @@
         },
         {
           "name": "R",
-          "type": "technology"
-        },
-        {
-          "name": "SAP HANA",
           "type": "technology"
         },
         {
