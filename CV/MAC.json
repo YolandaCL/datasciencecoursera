@@ -419,6 +419,10 @@
           "type": "technology"
         },
         {
+          "name": "Tableau",
+          "type": "technology"
+        },
+        {
           "name": "jQuery",
           "type": "technology"
         }
