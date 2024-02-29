@@ -59,6 +59,14 @@
                 "type": "technology"
               },
               {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Sharepoint",
+                "type": "technology"
+              },
+              {
                 "name": "Salesforce",
                 "type": "technology"
               }
