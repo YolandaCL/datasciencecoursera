@@ -303,12 +303,7 @@
         "startDate": "2024-02-01",
         "institution": {
           "name": "IBM ",
-          "description": ">- What is data science?\n>- Data science methodology\n>- Python for data science AI & development \n>- Databases and SQL for data science with python \n>- Tools for data science\n>- Data analysis with python\n>- Data visualization with python\n>- Machine learning with python\n>- Applied data science capstone,\n>- Python project for data science",
-          "URL": "https://www.coursera.org/professional-certificates/ibm-data-science",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/28/f1bc8b92-335c-4078-9864-031c05ce1c40_ibm2.png",
-            "alt": "ibm2.png"
-          }
+          "description": ">- What is data science?\n>- Data science methodology\n>- Python for data science AI & development \n>- Databases and SQL for data science with python \n>- Tools for data science\n>- Data analysis with python\n>- Data visualization with python\n>- Machine learning with python\n>- Applied data science capstone,\n>- Python project for data science"
         },
         "linkedCompetences": [
           {
