@@ -176,7 +176,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Microsoft Power BI",
+          "name": "Jira",
           "type": "technology"
         }
       },
@@ -456,10 +456,6 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "Microsoft Power BI",
-        "type": "technology"
-      },
       {
         "name": "Python",
         "type": "technology"
