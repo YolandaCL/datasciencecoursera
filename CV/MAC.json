@@ -252,7 +252,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -447,7 +447,7 @@
         }
       ],
       "preferredRoles": [
-        "Data Analysis & BI",
+        "Data Analyst & BI",
         "Data Scientist",
         "QA & Testing Engineer"
       ]
