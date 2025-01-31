@@ -81,42 +81,6 @@
         },
         "roles": [
           {
-            "name": "Admisnistration Technician  at Online Sales Division ( 100% remote )",
-            "startDate": "2020-07-01",
-            "finishDate": "2023-10-01",
-            "challenges": [
-              {
-                "description": "> - Problem management and budgeting.    \n> - Identification of database issues and inconsistencies between systems.    \n> - Utilization of tools such as SAP CRM, Salesforce, and IBM IMS."
-              }
-            ],
-            "competences": [
-              {
-                "name": "CRM",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Sharepoint",
-                "type": "technology"
-              },
-              {
-                "name": "Salesforce",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "EL CORTE INGLÉS ",
-          "URL": "https://www.elcorteingles.es/"
-        },
-        "roles": [
-          {
             "name": "Functional Group  Technician at CIISW ARQ.D.TEC.DISTRIB. ( 15% remote , 90% office)",
             "startDate": "2019-03-01",
             "finishDate": "2020-06-01",
@@ -144,6 +108,46 @@
               },
               {
                 "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "EL CORTE INGLÉS ",
+          "URL": "https://www.elcorteingles.es/"
+        },
+        "roles": [
+          {
+            "name": "ICT Consultant, at El Corte Inglés",
+            "startDate": "2019-03-01",
+            "finishDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "* Mar 2019 - Aug 2020 (office and remote) : \nin ‘Grupo de Funcionales’ (Área Integración de Sist. y Arquitectura\nTecn. Distribuida), I was assigned to extract, transform and load\ntechnical issues detected, in order to provide a brief summary for the\ndevelopers and their managers. I also cross-referenced the data, and\noccasionally that solved the problem. SQL query optimization\n\n*  Aug 2020 - Oct 2023 (remote) : \nDue the ecommerce sales growth, I was assigned to ‘Venta por\nReserva’\n, team responsible for coordinating warehouses and\nsuppliers, and ticket management. My expertise as a programmer and\nanalyst, allowed me to detect bugs in real time and notify them. Also, I\nwas required to verified a new preprodution service"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Sharepoint",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Salesforce",
                 "type": "technology"
               }
             ]
