@@ -113,10 +113,6 @@
       {
         "organization": {
           "name": "CAPGEMINI ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/06a15031-6c86-44e1-a724-e3b64caa064c_capgemini_sap.jpg",
-            "alt": "capgemini_sap.jpg"
-          },
           "URL": "https://www.capgemini.com"
         },
         "roles": [
