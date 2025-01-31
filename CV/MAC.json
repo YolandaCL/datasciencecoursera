@@ -209,32 +209,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Biologist, specialized in biotechnology",
-        "startDate": "1995-07-01",
-        "institution": {
-          "name": "University of Oviedo",
-          "URL": "https://www.uniovi.es/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/0c4c3130-c607-4ce9-914e-e044cff91b98_universidadoviedo.jpg",
-            "alt": "universidadOviedo.jpg"
-          }
-        },
-        "finishDate": "2001-07-01",
-        "linkedCompetences": [
-          {
-            "name": "Microsoft Excel",
-            "type": "technology"
-          },
-          {
-            "name": "SPSS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "CFGS  SOFTWARE DEVELOPMENT ( FP  Desarrollo de Aplicaciones Web )",
+        "name": " FP2  Desarrollo de Aplicaciones Web ",
         "startDate": "2016-09-01",
         "institution": {
           "name": "IES Doctor Fléming de Oviedo",
@@ -264,6 +239,31 @@
           },
           {
             "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Biologist, specialized in biotechnology",
+        "startDate": "1995-07-01",
+        "institution": {
+          "name": "University of Oviedo",
+          "URL": "https://www.uniovi.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/0c4c3130-c607-4ce9-914e-e044cff91b98_universidadoviedo.jpg",
+            "alt": "universidadOviedo.jpg"
+          }
+        },
+        "finishDate": "2001-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          },
+          {
+            "name": "SPSS",
             "type": "technology"
           }
         ]
