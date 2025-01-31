@@ -353,20 +353,6 @@
           }
         ]
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Proactivity",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
