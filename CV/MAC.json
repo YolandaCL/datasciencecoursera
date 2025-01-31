@@ -251,10 +251,10 @@
         "startDate": "1995-07-01",
         "institution": {
           "name": "University of Oviedo",
-          "URL": "https://www.uniovi.es/",
+          "URL": "https://www.uniovi.es/estudia/grados/ciencias/biologia",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/0c4c3130-c607-4ce9-914e-e044cff91b98_universidadoviedo.jpg",
-            "alt": "universidadOviedo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/31/4aea4e76-411b-4774-9d4b-d5d2b0dcf448_uniovi.png",
+            "alt": "UNIOVI.png"
           }
         },
         "finishDate": "2001-07-01",
@@ -311,7 +311,12 @@
         "startDate": "2024-02-01",
         "institution": {
           "name": "IBM ",
-          "description": ">- What is data science?\n>- Data science methodology\n>- Python for data science AI & development \n>- Databases and SQL for data science with python \n>- Tools for data science\n>- Data analysis with python\n>- Data visualization with python\n>- Machine learning with python\n>- Applied data science capstone,\n>- Python project for data science"
+          "description": ">- What is data science?\n>- Data science methodology\n>- Python for data science AI & development \n>- Databases and SQL for data science with python \n>- Tools for data science\n>- Data analysis with python\n>- Data visualization with python\n>- Machine learning with python\n>- Applied data science capstone,\n>- Python project for data science",
+          "URL": "https://www.coursera.org/professional-certificates/ibm-data-science",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/31/790b1e3a-a78e-4c8f-a9c1-79294524f9a3_ibm.png",
+            "alt": "IBM.png"
+          }
         },
         "linkedCompetences": [
           {
