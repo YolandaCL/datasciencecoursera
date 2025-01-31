@@ -389,6 +389,12 @@
       ],
       "contactMails": [
         "correoyolanda@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "645533714",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
