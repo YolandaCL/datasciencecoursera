@@ -176,12 +176,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -195,6 +189,12 @@
       {
         "skill": {
           "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Salesforce",
           "type": "technology"
         }
       },
@@ -463,10 +463,6 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Jira",
-        "type": "technology"
-      },
-      {
         "name": "Python",
         "type": "technology"
       },
@@ -476,6 +472,10 @@
       },
       {
         "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Salesforce",
         "type": "technology"
       },
       {
