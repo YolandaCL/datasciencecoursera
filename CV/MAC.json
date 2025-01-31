@@ -73,10 +73,6 @@
       {
         "organization": {
           "name": "EL CORTE INGLÉS ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/14/8dcea0bc-e027-4a9e-8d1d-e9eb54a490cb_corteinglesonline.jpg",
-            "alt": "corteInglesOnline.jpg"
-          },
           "URL": "https://www.elcorteingles.es/"
         },
         "roles": [
