@@ -36,6 +36,46 @@
     "jobs": [
       {
         "organization": {
+          "name": "INIXA",
+          "URL": "https://www.inixa.com/"
+        },
+        "roles": [
+          {
+            "name": "Developer - IT Consultant 27001, at INIXA",
+            "startDate": "2024-06-01",
+            "finishDate": "2024-08-01",
+            "challenges": [
+              {
+                "description": "Developer - IT Consultant 27001, at INIXA\nJun 2024 , three months (office and remote)\nAt INIXA, a cybersecurity company with twenty years of experience,\nI performed:\n- vulnerability assessments and security alerts\n- ISO 27001 and ENS management\n- data protection compliance GDPR\n- labeling images on social media\n- marketing and SEO for CryptoX® ARA"
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "EL CORTE INGLÉS ",
           "URL": "https://www.elcorteingles.es/"
         },
