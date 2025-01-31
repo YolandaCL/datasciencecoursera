@@ -214,9 +214,10 @@
         "institution": {
           "name": "IES Doctor Fléming de Oviedo",
           "description": "> - Web Development using HTML, CSS, JavaScript, Java and PHP.\n> - Database Management and Analysis with MySQL and Oracle\n> - Web Application Security: Implementing security measures to protect web applications from potential threats and vulnerabilities, including data encryption and user authentication.",
+          "URL": "https://alojaweb.educastur.es/web/iesdoctorfleming",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/29/b0c1815b-16de-4261-ac69-b0b6dca9caaf_512a6c26-2808-433b-9.jpg",
-            "alt": "512a6c26-2808-433b-9995-7ad33c76209d_fp_ies_fleming.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/31/62b47d90-f762-4aa2-a218-7253760b1cda_ies_dr.png",
+            "alt": "IES_DR.FLEMING.png"
           }
         },
         "finishDate": "2018-06-01",
