@@ -209,7 +209,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": " FP2  Desarrollo de Aplicaciones Web (Programmer)",
+        "name": " FP2  'Desarrollo de aplicaciones web' (programmer)",
         "startDate": "2016-09-01",
         "institution": {
           "name": "IES Doctor Fléming de Oviedo",
@@ -334,6 +334,22 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "ISO 27001 Lead Auditor,",
+        "startDate": "2024-05-01",
+        "institution": {
+          "name": "AENOR",
+          "description": "ISO 27001 Lead Auditor,\n\nInformation Security Management System (ISMS)",
+          "URL": "https://www.aenor.com/formacion/tecnologias-de-la-informacion/curso-s-0a-auditor-a-lider-iso-27001",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/31/ce38585e-2d55-4e6d-8bc5-113486a46a90_aenor.png",
+            "alt": "AENOR.png"
+          }
+        },
+        "finishDate": "2024-05-01"
       },
       {
         "studyType": "certification",
