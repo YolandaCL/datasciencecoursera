@@ -149,6 +149,24 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Azucarera Ebro",
+          "URL": "https://www.azucarera.es/"
+        },
+        "roles": [
+          {
+            "name": "ISO 9001 - ISO 14001 Technician, at Azucarera Ebro",
+            "startDate": "2001-08-01",
+            "finishDate": "2006-05-01",
+            "challenges": [
+              {
+                "description": "ISO 9001 - 14001 Technician, at Azucarera Ebro\nBefore having my certificate, I worked for five years as internal auditor,\ncustomer audits and assisting certification audits\nI also implemented an EMAS (Eco-Management and Audit Scheme)"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
