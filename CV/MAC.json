@@ -152,6 +152,24 @@
       },
       {
         "organization": {
+          "name": "Comunidad de Madrid",
+          "URL": "https://www.comunidad.madrid/servicios/servicios-sociales/centros-base-valoracion-orientacion-personas-discapacidad"
+        },
+        "roles": [
+          {
+            "name": "Assistant director",
+            "startDate": "2006-03-01",
+            "finishDate": "2009-10-01",
+            "challenges": [
+              {
+                "description": "Assistant director, at 'Centro Base nº7 de atención a personas con discapacidad de la Comunidad de Madrid'"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Azucarera Ebro",
           "URL": "https://www.azucarera.es/"
         },
