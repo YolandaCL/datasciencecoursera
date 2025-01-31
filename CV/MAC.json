@@ -81,46 +81,6 @@
         },
         "roles": [
           {
-            "name": "Functional Group  Technician at CIISW ARQ.D.TEC.DISTRIB. ( 15% remote , 90% office)",
-            "startDate": "2019-03-01",
-            "finishDate": "2020-06-01",
-            "challenges": [
-              {
-                "description": "> - Extraction and cleansing of the incidents set\n> - Summary of relevant information to provide data for the programming team.\n> - Data analysis. Identifying connections between current and previous incidents and reporting for further analysis. \n> - Inconsistencies between centralized systems, using Jira & Remedy\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "BMC Remedy",
-                "type": "technology"
-              },
-              {
-                "name": "JSON",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "EL CORTE INGLÉS ",
-          "URL": "https://www.elcorteingles.es/"
-        },
-        "roles": [
-          {
             "name": "ICT Consultant, at El Corte Inglés",
             "startDate": "2019-03-01",
             "finishDate": "2023-10-01",
